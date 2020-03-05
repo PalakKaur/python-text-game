@@ -1,2 +1,3 @@
-# python-text-game
-Text Adventure Game - Monster House
+# Python Text Adventure Game - Monster House
+
+![Alt](game_map.png)
